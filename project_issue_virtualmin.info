@@ -1,0 +1,9 @@
+name = Project issue tracking submission from Webmin Virtualmin Support module
+description = Provides submission of tickets from within Virtualmin to a project_issue tracker.
+dependencies[] = project_issue
+dependencies[] = comment
+dependencies[] = comment_upload
+dependencies[] = upload
+package = Project
+core = 6.x
+
